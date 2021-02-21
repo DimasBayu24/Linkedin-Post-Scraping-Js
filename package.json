@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping-cheerio",
+  "version": "1.0.0",
+  "description": "web scraping with cheerio",
+  "main": "scraping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^7.1.0",
+    "request-promise": "^4.2.6"
+  }
+}
